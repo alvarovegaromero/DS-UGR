@@ -1,0 +1,25 @@
+Distribución de Carga:
+
+Esther: 
+	S1M2 entera y una interfaz con problemas junto a Sandra.
+	S2M2 entero junto a Sandra.
+	S3M1, la parte de la interfaz junto a Javier.
+
+Sandra:
+	S1M2 entera y una interfaz con problemas junto a Esther.
+	S2M2 entero junto a Esther.
+	S3M1, la parte funcional junto a Álvaro.
+
+Alexander
+	S1M1 junto a Álvaro (aunque se quedó más tiempo en el ejercicio arreglando las hebras).
+	S3M1 todo el apartado opcional.
+
+Javier
+	S2M1, el opcional de Ruby.
+	S3M1, la parte de la interfaz junto a Esther.
+
+Álvaro
+	S2M1.
+	S1M1 junto a Alexander.
+	S3M1 la parte funcional con Sandra.
+	S1M2 arreglar y medio-rehacer la interfaz
